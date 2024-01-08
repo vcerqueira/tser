@@ -1,0 +1,2 @@
+class NotEnoughDataError(ValueError):
+    pass
